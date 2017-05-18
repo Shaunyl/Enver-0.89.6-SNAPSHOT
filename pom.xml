@@ -87,7 +87,7 @@
     </build>
     
     <properties>
-        <tft.mainClass>com.ansaldosts.sms.enver.Main</tft.mainClass>
+        <tft.mainClass>it.shaunyl.enver.Main</tft.mainClass>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <timestamp>${maven.build.timestamp}</timestamp>
         <maven.build.timestamp.format>EEE MMM dd HH:mm:ss yyyy</maven.build.timestamp.format>
